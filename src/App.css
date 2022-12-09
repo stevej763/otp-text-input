@@ -10,9 +10,10 @@
 }
 
 .letter-input {
+  text-align: center;
   margin: 5px;
-  width: 3rem;
-  font-size: 3rem;
+  width: 10rem;
+  font-size: 10rem;
   border-radius: 5px;
   border-color: transparent;
   caret-color: transparent;
