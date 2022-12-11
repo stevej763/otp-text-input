@@ -1,5 +1,4 @@
-Experimenting with a simple word puzzle game. Hang About shares a lot of similarities with Hangman in that you have to guess a word letter by letter, however duplicates will not be filled in and there is no limit to guesses. The challenge is to guess the word in as few guesses as possible.
-
+Experimenting with creating a custom text input like a one-time-password input 
 
 You can start up the app in a dev environment just like any react app with: `npm run start`
 
